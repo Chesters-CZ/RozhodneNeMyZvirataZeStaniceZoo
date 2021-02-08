@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38c4c464-a889-4989-8da3-d4cb55f2f75c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1mmcmlNe3guXMxXS85AOq4UQMQe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="main.java.cz.educanet.zolololgicka" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38c4c464-a889-4989-8da3-d4cb55f2f75c" name="Default Changelist" comment="" />
+      <created>1610102372339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610102372339</updated>
+      <workItem from="1610102374072" duration="2526000" />
+      <workItem from="1610704758605" duration="4441000" />
+      <workItem from="1610980326930" duration="602000" />
+      <workItem from="1611311713757" duration="12127000" />
+      <workItem from="1611648702894" duration="540000" />
+      <workItem from="1611649341957" duration="134000" />
+      <workItem from="1611649652663" duration="67000" />
+      <workItem from="1611649750632" duration="110000" />
+      <workItem from="1612341025622" duration="36000" />
+      <workItem from="1612426084156" duration="2370000" />
+      <workItem from="1612429682935" duration="4093000" />
+      <workItem from="1612517669941" duration="865000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1612431347290">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="765" y="193" key="#com.intellij.ide.util.MemberChooser/1920.320.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1612431347290" />
+    <state x="0" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1610102446716">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="0" y="0" key="FileDocumentManager.FileCacheConflict/1920.320.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1610102446716" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1610104905792">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/1920.320.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1610104905792" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1610104905791">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.center/1920.320.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1610104905791" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1610104905791">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.left/1920.320.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1610104905791" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1610104905791">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.right/1920.320.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1610104905791" />
+    <state x="461" y="154" key="SettingsEditor" timestamp="1612428038026">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="461" y="154" key="SettingsEditor/1920.320.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1612428038026" />
+    <state x="177" y="-1080" width="1414" height="704" maximized="true" key="dock-window-1" timestamp="1610708329075">
+      <screen x="0" y="-1080" width="1920" height="1019" />
+    </state>
+    <state x="177" y="-1080" width="1414" height="704" maximized="true" key="dock-window-1/1920.320.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1610708329075" />
+    <state x="623" y="219" width="672" height="678" key="search.everywhere.popup" timestamp="1611312711772">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="623" y="219" width="672" height="678" key="search.everywhere.popup/1920.320.1920.1019/0.-1080.1920.1019/0.0.1920.1019@0.0.1920.1019" timestamp="1611312711772" />
+  </component>
+</project>
