@@ -1,4 +1,4 @@
-package main.java.cz.educanet.zolololgicka;
+package cz.educanet.zolololgicka;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
